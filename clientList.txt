@@ -1,0 +1,13 @@
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Official: nimal,nimal@gmail.com,ceo
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Personal: sunil,<nick-name>,rwkoshadhawijerathne@gmail.com,2000/08/13
+Office_friend: kaermal,kaermal@gmail.com,clerk,2000/12/12
+Official: nimdsal,nimasdsl@gmail.com,ceoes
+Official: nimxcvdsal,nimasdsl@gmail.com,ceoes
+Office_friend: kccvvvvvvamal,kamal@gmail.com,clerk,2000/08/14
+Office_friend: gkamal,kvamal@gmail.com,clerk,2000/12/28
